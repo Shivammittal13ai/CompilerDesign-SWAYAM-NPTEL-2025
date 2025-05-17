@@ -1,14 +1,14 @@
 # Compiler Design – SWAYAM NPTEL (Assignments & Notes)
 
-📘 This repository contains **assignment solutions** from the **Compiler Design** course offered by **SWAYAM NPTEL** in the years **2020**, **2022**, and **2025**, along with the **official lecture notes** shared during the **2025 session** by the instructor.
+📘 This repository contains **assignment** from the **Compiler Design** course offered by **SWAYAM NPTEL** in the years **2020**, **2022**, and **2025**, along with the **official lecture notes** shared during the **2025 session** by the instructor.
 
 ---
 
 ## 🎯 Purpose
 
 This repository is created to help learners by:
-- Providing assignment solutions for multiple NPTEL sessions (2020, 2022, 2025)
-- Sharing lecture notes from the 2025 session for quick revision and reference
+- Providing assignment for multiple NPTEL sessions (2020, 2022, 2025) for quick revision and reference
+- Sharing lecture notes from the 2025 session for reference
 
 ---
 
