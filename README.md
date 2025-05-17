@@ -1,2 +1,7 @@
-# CompilerDesign-SWAYAM-NPTEL-2025
-📘 This repository contains the assignments (from 2020, 2022, and 2025 sessions) and notes (from 2025 sessions) for the Compiler Design course offered by NPTEL SWAYAM.
+# Compiler Design – SWAYAM NPTEL (Assignments & Notes)
+
+📘 This repository contains **assignments** from the **Compiler Design** course offered by **SWAYAM NPTEL** in the years **2020, 2022, and 2025**, along with the **official lecture notes** from the **2025 session**.
+
+---
+
+## 📂 Contents
