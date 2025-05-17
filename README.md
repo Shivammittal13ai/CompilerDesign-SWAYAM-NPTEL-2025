@@ -22,18 +22,19 @@ This repository is created to help learners by:
 - **Course Link:** [https://onlinecourses.nptel.ac.in/noc25_cs13/preview](https://onlinecourses.nptel.ac.in/noc25_cs13/preview)
 
 ### 📅 Course Layout:
-- Week 1  : Introduction  
-- Week 2  : Lexical Analysis  
-- Week 3  : Parsing – Part I  
-- Week 4  : Parsing – Part II  
-- Week 5  : Parsing – Part III  
-- Week 6  : Syntax-Directed Translation  
-- Week 7  : Type Checking and Symbol Tables  
-- Week 8  : Runtime Environment Management – Part I  
-- Week 9  : Runtime Environment Management – Part II  
-- Week 10 : Intermediate Code Generation – Part I  
-- Week 11 : Intermediate Code Generation – Part II  
-- Week 12 : Intermediate Code Generation – Part III
+- Week 1 	:  Introduction
+- Week 2  	:  Lexical Analysis
+- Week 3  	:  Parsing – Part I
+- Week 4  	:  Parsing – Part II
+- Week 5  	:  Parsing – Part III
+- Week 6  	:  Syntax Directed Translation
+- Week 7  	:  Type Checking and Symbol Tables
+- Week 8  	:  Runtime Environment Management – Part I 
+- Week 9  	:  Runtime Environment Management – Part II 
+- Week 10  :  Intermediate Code Generation – Part I
+- Week 11  :  Intermediate Code Generation – Part II
+- Week 12  :  Intermediate Code Generation – Part III
+
 
 ---
 
