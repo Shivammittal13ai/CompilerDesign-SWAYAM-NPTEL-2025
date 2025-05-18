@@ -59,6 +59,9 @@ This repository is intended **strictly for educational and non-commercial use on
 > **Note:** If NPTEL or any copyright holder requests content removal,  
 > **I will comply immediately.**
 
+> **If you are a copyright holder and have concerns regarding this repository,  
+> please open an issue on this GitHub repo. I will take immediate action.**
+
 By using this repository, you agree to:
 - Use the materials **ethically**
 - **Avoid plagiarism** in your own submissions
